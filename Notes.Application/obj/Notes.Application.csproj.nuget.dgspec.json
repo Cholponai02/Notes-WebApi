@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Acer\\Desktop\\Notes.Backend\\Notes.Application\\Notes.Application.csproj": {}
+    "D:\\VS project\\Notes.Backend\\Notes.Application\\Notes.Application.csproj": {}
   },
   "projects": {
-    "D:\\Acer\\Desktop\\Notes.Backend\\Notes.Application\\Notes.Application.csproj": {
+    "D:\\VS project\\Notes.Backend\\Notes.Application\\Notes.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Acer\\Desktop\\Notes.Backend\\Notes.Application\\Notes.Application.csproj",
+        "projectUniqueName": "D:\\VS project\\Notes.Backend\\Notes.Application\\Notes.Application.csproj",
         "projectName": "Notes.Application",
-        "projectPath": "D:\\Acer\\Desktop\\Notes.Backend\\Notes.Application\\Notes.Application.csproj",
+        "projectPath": "D:\\VS project\\Notes.Backend\\Notes.Application\\Notes.Application.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Acer\\Desktop\\Notes.Backend\\Notes.Application\\obj\\",
+        "outputPath": "D:\\VS project\\Notes.Backend\\Notes.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Acer\\Desktop\\Notes.Backend\\Notes.Domain\\Notes.Domain.csproj": {
-                "projectPath": "D:\\Acer\\Desktop\\Notes.Backend\\Notes.Domain\\Notes.Domain.csproj"
+              "D:\\VS project\\Notes.Backend\\Notes.Domain\\Notes.Domain.csproj": {
+                "projectPath": "D:\\VS project\\Notes.Backend\\Notes.Domain\\Notes.Domain.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "D:\\Acer\\Desktop\\Notes.Backend\\Notes.Domain\\Notes.Domain.csproj": {
+    "D:\\VS project\\Notes.Backend\\Notes.Domain\\Notes.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Acer\\Desktop\\Notes.Backend\\Notes.Domain\\Notes.Domain.csproj",
+        "projectUniqueName": "D:\\VS project\\Notes.Backend\\Notes.Domain\\Notes.Domain.csproj",
         "projectName": "Notes.Domain",
-        "projectPath": "D:\\Acer\\Desktop\\Notes.Backend\\Notes.Domain\\Notes.Domain.csproj",
+        "projectPath": "D:\\VS project\\Notes.Backend\\Notes.Domain\\Notes.Domain.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Acer\\Desktop\\Notes.Backend\\Notes.Domain\\obj\\",
+        "outputPath": "D:\\VS project\\Notes.Backend\\Notes.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

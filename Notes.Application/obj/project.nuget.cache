@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ITHfOKVT3sa90BmOU+HNu7rkgDjPF3310t4MfDfN0HVVZpeGUOTCnut/INQSIKUkhJSV2yiwtZFFygqqSoibpQ==",
+  "dgSpecHash": "OUAtvr1UOXfU9JCDhOru+6J1zDJihl+8kOcYv7k4YGh+snLxJsz9kVDN+Y0hNHfrDdBvpu1nO5++1IffbMdFGA==",
   "success": true,
-  "projectFilePath": "D:\\Acer\\Desktop\\Notes.Backend\\Notes.Application\\Notes.Application.csproj",
+  "projectFilePath": "D:\\VS project\\Notes.Backend\\Notes.Application\\Notes.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.1\\microsoft.entityframeworkcore.7.0.1.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.1\\microsoft.entityframeworkcore.abstractions.7.0.1.nupkg.sha512",

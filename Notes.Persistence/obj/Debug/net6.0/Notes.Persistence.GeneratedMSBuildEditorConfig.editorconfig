@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Notes.Persistence
-build_property.ProjectDir = D:\Acer\Desktop\Notes.Backend\Notes.Persistence\
+build_property.ProjectDir = D:\VS project\Notes.Backend\Notes.Persistence\

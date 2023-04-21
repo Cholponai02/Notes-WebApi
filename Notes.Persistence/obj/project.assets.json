@@ -3263,11 +3263,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Acer\\Desktop\\Notes.Backend\\Notes.Persistence\\Notes.Persistence.csproj",
+      "projectUniqueName": "D:\\VS project\\Notes.Backend\\Notes.Persistence\\Notes.Persistence.csproj",
       "projectName": "Notes.Persistence",
-      "projectPath": "D:\\Acer\\Desktop\\Notes.Backend\\Notes.Persistence\\Notes.Persistence.csproj",
+      "projectPath": "D:\\VS project\\Notes.Backend\\Notes.Persistence\\Notes.Persistence.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Acer\\Desktop\\Notes.Backend\\Notes.Persistence\\obj\\",
+      "outputPath": "D:\\VS project\\Notes.Backend\\Notes.Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3284,8 +3284,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Acer\\Desktop\\Notes.Backend\\Notes.Application\\Notes.Application.csproj": {
-              "projectPath": "D:\\Acer\\Desktop\\Notes.Backend\\Notes.Application\\Notes.Application.csproj"
+            "D:\\VS project\\Notes.Backend\\Notes.Application\\Notes.Application.csproj": {
+              "projectPath": "D:\\VS project\\Notes.Backend\\Notes.Application\\Notes.Application.csproj"
             }
           }
         }

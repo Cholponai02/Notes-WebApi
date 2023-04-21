@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fikNSoVGjxI2v9X4hCj+xW+IrIFD/Q71iWm3FQVfB6wGOyiuFO6P085NyBJVjcpfsA/xkpv9kCGlzex4nD6SZg==",
+  "dgSpecHash": "a3iXRsEzoGatHVNBokeRL7naV7xHHtWmcmZ6hvtfUlk2g/CD+z/DAWjumXg4jCdbHpryL9N1yAa/fmrGyFszTQ==",
   "success": true,
-  "projectFilePath": "D:\\Acer\\Desktop\\Notes.Backend\\Notes.Persistence\\Notes.Persistence.csproj",
+  "projectFilePath": "D:\\VS project\\Notes.Backend\\Notes.Persistence\\Notes.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

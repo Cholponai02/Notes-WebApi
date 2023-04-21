@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XGlTWYzcYQTRlj2ShFAzw/mfUHv2oVtEk206gCXvYBHRplQqCAHeq3wf4q7ihMM6TvlH2f/JnFYMluEj+xmrMA==",
+  "dgSpecHash": "bP99AG2anAkCeUyzXIc6yg8Gbhd3ZtqDorIWJ+E2NlmFRp53RkErEy+WlcJWOp9JWwlbvf1ibNxpR8QrxuQ8Tw==",
   "success": true,
-  "projectFilePath": "D:\\Acer\\Desktop\\Notes.Backend\\Notes.Domain\\Notes.Domain.csproj",
+  "projectFilePath": "D:\\VS project\\Notes.Backend\\Notes.Domain\\Notes.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
