@@ -17,8 +17,4 @@
     <ProjectReference Include="..\Notes.Domain\Notes.Domain.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Notes\Queries\GetNoteList\" />
-  </ItemGroup>
-
 </Project>
