@@ -1,0 +1,12 @@
+D:\VS project\Notes.Backend\Notes.Domain\bin\Debug\net6.0\Notes.Domain.deps.json
+D:\VS project\Notes.Backend\Notes.Domain\bin\Debug\net6.0\Notes.Domain.dll
+D:\VS project\Notes.Backend\Notes.Domain\bin\Debug\net6.0\Notes.Domain.pdb
+D:\VS project\Notes.Backend\Notes.Domain\obj\Debug\net6.0\Notes.Domain.csproj.AssemblyReference.cache
+D:\VS project\Notes.Backend\Notes.Domain\obj\Debug\net6.0\Notes.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS project\Notes.Backend\Notes.Domain\obj\Debug\net6.0\Notes.Domain.AssemblyInfoInputs.cache
+D:\VS project\Notes.Backend\Notes.Domain\obj\Debug\net6.0\Notes.Domain.AssemblyInfo.cs
+D:\VS project\Notes.Backend\Notes.Domain\obj\Debug\net6.0\Notes.Domain.csproj.CoreCompileInputs.cache
+D:\VS project\Notes.Backend\Notes.Domain\obj\Debug\net6.0\Notes.Domain.dll
+D:\VS project\Notes.Backend\Notes.Domain\obj\Debug\net6.0\refint\Notes.Domain.dll
+D:\VS project\Notes.Backend\Notes.Domain\obj\Debug\net6.0\Notes.Domain.pdb
+D:\VS project\Notes.Backend\Notes.Domain\obj\Debug\net6.0\ref\Notes.Domain.dll
